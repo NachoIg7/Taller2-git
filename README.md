@@ -2,4 +2,4 @@
 
 Primer cambio al archivo
 
-segundo cambio
+segundo cambio.
